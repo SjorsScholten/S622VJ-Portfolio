@@ -1,6 +1,6 @@
 # Developing Enterprise Software as a Team Effort
 
-[Portfolio](./info_portfolio.md) | Developing Enterprise...
+[Portfolio](../info_portfolio.md) | Developing Enterprise...
 
 [Uitleg leeruitkomst]: #
 

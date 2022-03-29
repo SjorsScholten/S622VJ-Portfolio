@@ -1,4 +1,4 @@
-# Portfolio
+# S622VJ Portfolio
 
 ## Introduction
 
@@ -23,13 +23,13 @@ This is my second time doing this semester, also being the second time doing the
 ## Learning outcomes
 
 1. [Developing Enterprise Software as a Team Effort](./outcome_1.md)
-1. [Context Based Research](./outcome_2.md)
-1. [Preparation for Lifelong Learning](./outcome_3.md)
-1. [Scalable Architecture](./outcome_4.md)
-1. [Development and Operations](./outcome_5.md)
-1. [Cloud Services](./outcome_6.md)
-1. [Security by Design](./outcome_7.md)
-1. [Distributed Data](./outcome_8.md)
+1. [Context Based Research](./portfolio/outcome_2.md)
+1. [Preparation for Lifelong Learning](./portfolio/outcome_3.md)
+1. [Scalable Architecture](./portfolio/outcome_4.md)
+1. [Development and Operations](./portfolio/outcome_5.md)
+1. [Cloud Services](./portfolio/outcome_6.md)
+1. [Security by Design](./portfolio/outcome_7.md)
+1. [Distributed Data](./portfolio/outcome_8.md)
 
 ## Retrospective
 

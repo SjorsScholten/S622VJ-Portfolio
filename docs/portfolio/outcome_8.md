@@ -1,6 +1,6 @@
 # Distributed Data
 
-[Portfolio](./info_portfolio.md) | Distributed Data
+[Portfolio](../info_portfolio.md) | Distributed Data
 
 [Uitleg leeruitkomst]: #
 

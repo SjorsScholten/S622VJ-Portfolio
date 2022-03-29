@@ -1,6 +1,6 @@
 # Context Based Research
 
-[Portfolio](./info_portfolio.md) | Context Based Research
+[Portfolio](../info_portfolio.md) | Context Based Research
 
 [Uitleg leeruitkomst]: #
 
