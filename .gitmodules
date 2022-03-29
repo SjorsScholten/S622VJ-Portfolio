@@ -1,0 +1,3 @@
+[submodule "FoodForThoughts"]
+	path = FoodForThoughts
+	url = https://github.com/SjorsScholten/FoodForThoughts.git
