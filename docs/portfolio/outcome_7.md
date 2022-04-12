@@ -1,6 +1,6 @@
 # Security by Design
 
-[Portfolio](../info_portfolio.md) | Security by Design
+[Portfolio](../../README.md) | Security by Design
 
 [Uitleg leeruitkomst]: #
 

@@ -1,6 +1,6 @@
 # Development and Operations
 
-[Portfolio](../info_portfolio.md) | Development and...
+[Portfolio](../../README.md) | Development and...
 
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. Furthermore, you aim for as much automation as possible, to enable short release times and high software quality.
 

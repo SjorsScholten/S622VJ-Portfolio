@@ -1,6 +1,6 @@
 # Preparation for Lifelong Learning
 
-[Portfolio](../info_portfolio.md) | Preparation for Life...
+[Portfolio](../../README.md) | Preparation for Life...
 
 [Uitleg leeruitkomst]: #
 

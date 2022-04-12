@@ -1,6 +1,6 @@
 # Cloud Services
 
-[Portfolio](../info_portfolio.md) | Cloud Services
+[Portfolio](../../README.md) | Cloud Services
 
 [Uitleg leeruitkomst]: #
 

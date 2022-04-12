@@ -1,6 +1,6 @@
 # Scalable Architecture
 
-[Portfolio](../info_portfolio.md) | Scalable Architecture
+[Portfolio](../../README.md) | Scalable Architecture
 
 [Uitleg leeruitkomst]: #
 
