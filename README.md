@@ -55,7 +55,7 @@ For the GP I worked on phasing out the old API-Gateway with the new Ocelot API.
 
 For The IP I worked on improving the frontend and connected the backend to the database. I improved my local development environment by making it up and running with one command. I added a local MongoDB container to my environment and connected my backend services. For the frontend I created the first few pages and components in order to display the data and results for the requests. I created the first REST call towards the backend from the frontend.
 
-Next sprint I will continue creating components for the frontend and start on implementing the authorization and authentication functionality. By the end of the next sprint the user should be able to login.
+Next sprint I will continue creating components for the frontend and start on implementing the authorization and authentication functionality. By the end of the next sprint the user should be able to log in.
 
 ### Sprint 3
 
