@@ -39,11 +39,23 @@ This sprint was oriented around the hack-it week and launching the projects. I s
 
 ### Sprint 1
 
-In this sprint we started on setting up the environment for the IP and improving the current state of the GP code base. 
+In this sprint we started on setting up the environment for the IP and improving the current state of the GP code base.
+
+For the GP I mostly worked on replacing the API-Gateway, which will now be done using ocelot. I researched the usability of the tool and created documentation on how to use the tool for future teams.
+
+For the IP I created the initial architecture documentation and set up all the backend services and frontend. I took a decision on the tools and frameworks I wanted to learn this semester. 
+
+Next sprint we will start on creating a foundation for 
 
 ### Sprint 2
 
-[Do at the end of sprint 2]: #
+In this sprint I started with developing the first few user stories in order to lay a foundation for the learning outcomes. This sprint I also became infected with corona, so there was not much happening in the first week, making this sprint only 2 weeks.
+
+For the GP I worked on phasing out the old API-Gateway with the new Ocelot API.
+
+For The IP I worked on improving the frontend and connected the backend to the database. I improved my local development environment by making it up and running with one command. I added a local MongoDB container to my environment and connected my backend services. For the frontend I created the first few pages and components in order to display the data and results for the requests. I created the first REST call towards the backend from the frontend.
+
+Next sprint I will continue creating components for the frontend and start on implementing the authorization and authentication functionality. By the end of the next sprint the user should be able to login.
 
 ### Sprint 3
 

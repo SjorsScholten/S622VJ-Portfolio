@@ -1,3 +1,6 @@
 [submodule "FoodForThoughts"]
 	path = FoodForThoughts
 	url = https://github.com/SjorsScholten/FoodForThoughts.git
+[submodule "ProgrammingParadigms"]
+	path = ProgrammingParadigms
+	url = https://github.com/SjorsScholten/ProgrammingParadigms.git

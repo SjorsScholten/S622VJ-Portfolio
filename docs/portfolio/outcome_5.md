@@ -9,6 +9,7 @@ You set up environments and tools which support your chosen software development
 | ID | Description | Type | Level |
 |---|---|---|---|
 | 5.1 | GitHub Environment | GP | Beginning |
+| 5.2 | Local environment | IP | Beginning |
 
 ## Argumentation
 
@@ -24,3 +25,7 @@ Worked on setting up the organization for our team in GitHub.
     - Issues can be gathered in one place.
     - All services can be pulled with one recursive clone.
 - Started on documentation on how the organization works and how to set up for future teams.
+
+### 5.2 Local environment
+
+Made it easier to run the local environment to a bat script. With executing a single script the developer can set up his local environment in docker.
