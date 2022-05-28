@@ -19,4 +19,4 @@ Made the choice to use MongoDB as a database for my system. From previous use I 
 
 ### 8.2 MonogDB Implementation
 
-Set up a docker container running an image of MongoDB when starting the backend in local environment. The application can read and write to this database. The next step is to apply it to the development enviroment by connecting it to the cloud endpoint.
+Set up a docker container running an image of MongoDB when starting the backend in local environment. The application can read and write to this database. The next step is to apply it to the development environment by connecting it to the cloud endpoint.
