@@ -23,3 +23,6 @@ Created proof of concepts for different paradigms in C++
 - Object-Oriented
 - Procedural
 - Functional
+
+### 2.3 Research documentation
+
