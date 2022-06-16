@@ -14,3 +14,6 @@
 
 ### 7.1: SonarCloud
 
+### 7. SDLC phases
+
+### 7. Authentication

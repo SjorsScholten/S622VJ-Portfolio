@@ -29,3 +29,11 @@ Worked on setting up the organization for our team in GitHub.
 ### 5.2 Local environment
 
 Made it easier to run the local environment to a bat script. With executing a single script the developer can set up his local environment in docker.
+
+### 5.3 SDLC activities
+
+Described for every SDLC phase what a programmer can do to improve development.
+
+### 5. GitHub actions CI/CD
+
+Configured a CI/CD pipeline for my application using GitHub actions. On push the services are build and tested. A SonarCloud build is also made to check for bugs, code smells, and vulnerabilities
