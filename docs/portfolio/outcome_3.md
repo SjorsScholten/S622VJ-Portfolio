@@ -9,6 +9,8 @@
 | ID | Description | Type | Level |
 |---|---|---|---|
 | 3.1 | Internship Orientation | Internship | Orienting |
+| 3.2 | Emerging trends | Emerging trends | beginning |
+| 3.3 | Minor system programming in C++ | Minor | proficient |
 
 ## Argumentation
 
@@ -19,8 +21,6 @@ In sprint 0 I started looking at possible internship locations. I thought about 
 ### 3.2 Emerging trends
 
 Use emerging trends to discover new paradigms that are useful for my target domain.
-
-conclusie
 
 ### 3.3 Minor system programming in C++
 

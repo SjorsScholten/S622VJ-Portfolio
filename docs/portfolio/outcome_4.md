@@ -30,7 +30,7 @@ Build my architecture documentation in multiple view points using 4+1 view model
 
 ### 4.4 Kubernetes
 
-Application running in kubernetes.
+Application running in kubernetes. Using kubectl and microk8s on linux. See deployments for configuration.
 
 ### 4.5 Autoscaling and k6
 
